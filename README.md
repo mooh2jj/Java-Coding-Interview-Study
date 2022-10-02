@@ -1,5 +1,5 @@
 # Java-Coding-Interview-Study
-책 &lt;자바 코딩 인터뷰 완벽 가이드>를 참고한 스터디 저장공간입니다.
+책 [&lt;자바 코딩 인터뷰 완벽 가이드>](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791157688197&orderClick=LA6)를 참고한 스터디 저장공간입니다.
 
 <br>
 
