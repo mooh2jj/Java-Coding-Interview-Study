@@ -24,6 +24,16 @@
 </div>
 </details>
 
+<details>
+<summary>2주차(10/09)</summary>
+<div markdown="1">
+
+* 이기우&김민보 발표
+* 6장 객체지향 프로그래밍
+
+</div>
+</details>
+
 
 <br>
 
