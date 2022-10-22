@@ -28,8 +28,18 @@
 <summary>2주차(10/09)</summary>
 <div markdown="1">
 
-* 이기우&김민보 발표
+* 이기우&김민보님 발표
 * 6장 객체지향 프로그래밍
+
+</div>
+</details>
+
+<details>
+<summary>3주차(10/16)</summary>
+<div markdown="1">
+
+* 이풍혁님 발표
+* 7장 알고리즘의 빅 오 분석법
 
 </div>
 </details>
