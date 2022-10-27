@@ -28,9 +28,11 @@
 <summary>2주차(10/09)</summary>
 <div markdown="1">
 
-* 이기우&김민보님 발표
-* 6장 객체지향 프로그래밍
-
+* 6장 객체지향 프로그래밍 발표
+  - 이기우님: https://obsidian-melon-d16.notion.site/C6-033918ad19dc47cfb3cecf659c8e8605
+  - 김민보님: 
+     1) https://github.com/minbo2002/coding_interview_study_code
+     2)  https://spectrum-splash-bed.notion.site/6-8b0a48952d7e47679a5d35aaecd1699a
 </div>
 </details>
 
@@ -38,8 +40,8 @@
 <summary>3주차(10/16)</summary>
 <div markdown="1">
 
-* 이풍혁님 발표
-* 7장 알고리즘의 빅 오 분석법
+* 7장 알고리즘의 빅 오 분석법 발표
+  * 이풍혁님: https://github.com/mooh2jj/Java-Coding-Interview-Study/blob/main/%EC%9D%B4%ED%92%8D%ED%98%81/CH7%20%EB%B9%85%EC%98%A4%ED%91%9C%EA%B8%B0%EB%B2%95%2044a0ad59eef345f0b5ff7fb50db27f16.md
 
 </div>
 </details>
@@ -50,8 +52,10 @@
 <summary>4주차(10/23)</summary>
 <div markdown="1">
 
-* 최태훈님, 마지연님 발표
-* 8장 재귀 및 동적 프로그래밍
+* 8장 재귀 및 동적 프로그래밍 발표
+  * 최태훈님: https://github.com/mooh2jj/Java-Coding-Interview-Study/tree/main/%EC%B5%9C%ED%83%9C%ED%9B%88/chapter08
+  * 마지연님
+
 
 </div>
 </details>
