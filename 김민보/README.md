@@ -5,3 +5,5 @@
 7장 알고리즘의 빅 오 분석법 관련 노션 정리 https://spectrum-splash-bed.notion.site/7-36d40c5958474965a1b03d7ac89b4b4d
 
 8장 재귀 및 동적 프로그래밍 관련 노션 정리 https://spectrum-splash-bed.notion.site/8-8330b1ae2ff347698ea5bacdb3b2771d
+
+10장 배열과 문자열 관련 노션 정리 https://www.notion.so/10-b06589a95fe64fa1a0fbd816e5b78ad8
