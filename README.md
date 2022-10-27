@@ -44,6 +44,17 @@
 </div>
 </details>
 
+</details>
+
+<details>
+<summary>4주차(10/23)</summary>
+<div markdown="1">
+
+* 최태훈님, 마지연님 발표
+* 8장 재귀 및 동적 프로그래밍
+
+</div>
+</details>
 
 <br>
 
