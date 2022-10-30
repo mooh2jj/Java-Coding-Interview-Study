@@ -7,3 +7,8 @@ https://obsidian-melon-d16.notion.site/C6-033918ad19dc47cfb3cecf659c8e8605
 **→ Blog LINK**
 
 https://rachel0115.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98-Big-O-%ED%91%9C%EA%B8%B0%EB%B2%95
+
+## Chapter10. 배열과 문자열
+**→ NOTION LINK**
+
+https://obsidian-melon-d16.notion.site/C-10-3a6c4fdca80c4aa58dcf94ba43afb988
