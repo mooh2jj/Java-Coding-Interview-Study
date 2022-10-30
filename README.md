@@ -54,7 +54,7 @@
 
 * 8장 재귀 및 동적 프로그래밍 발표
   * 최태훈님: https://github.com/mooh2jj/Java-Coding-Interview-Study/tree/main/%EC%B5%9C%ED%83%9C%ED%9B%88/chapter08
-  * 마지연님
+  * 마지연님: https://gitofjy.tistory.com/14 
 
 
 </div>
