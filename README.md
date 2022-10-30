@@ -60,6 +60,16 @@
 </div>
 </details>
 
+<details>
+<summary>5주차(10/30)</summary>
+<div markdown="1">
+
+* 10장 문자열과 배열
+  * 채지은님: https://chaegamsung.notion.site/Part-3-10-dbd2c73682924f8ca3319eb634aca982
+
+</div>
+</details>
+
 <br>
 
 # 🎃 주의사항
